@@ -727,9 +727,23 @@ h2 {
 .tab-pane {
   display: none;
 }
-.tab-pane.active {
+ .tab-pane.active {
   display: block;
 }
+
+/* Personal + Dieta Flexível */
+#tab-pdietaflex .cards-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+}
+
+@media (max-width: 639px) {
+  #tab-pdietaflex .cards-grid-3 {
+    grid-template-columns: 1fr;
+  }
+}
+
 .tab-desc {
   font-size: 13.5px;
   color: var(--text-200);
