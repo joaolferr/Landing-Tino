@@ -1,8 +1,8 @@
-# 🏋️ Tino Jr — Landing Page
+#  Tino Jr — Landing Page
 
 > Landing page profissional para nutricionista esportivo e personal trainer, desenvolvida como projeto freelance e publicada em produção.
 
-**[→ Ver site ao vivo](https://tino-jr-nutricionista-e-personal-tr.vercel.app)**
+**[→ Ver site ao vivo](https://metodologia-tjr.vercel.app/)**
 
 ---
 
