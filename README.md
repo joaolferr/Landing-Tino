@@ -14,14 +14,6 @@ O projeto saiu de um briefing completo (identidade visual, textos, planos e pre√
 
 ---
 
-## Preview
-
-| Desktop | Mobile |
-|---|---|
-| *(inserir screenshot)* | *(inserir screenshot)* |
-
----
-
 ## Tecnologias
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
